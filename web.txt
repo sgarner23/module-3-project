@@ -1,0 +1,11 @@
+How does the internet work?
+  If there is one thing I've learned it's that the internet is very complex and complicated. 
+  The internet is based on a network model. A network is a bunch of computers that can talk with each other.
+  The internet is a HUGE network. Within these networks, each computer has an "IP Address" so that we can identify which 
+  computer we're interacting with. 
+
+What happens when you click on a link?
+  There are two sides here the client side and the server side. When a button is clicked we are sending a 
+  Hypertext Transfer Protocol so that two computers (client side and server side) can communicate through the browser. 
+  We often are making a 'request' to the server and a response will return as either some new HTML content or a host of other things. 
+  

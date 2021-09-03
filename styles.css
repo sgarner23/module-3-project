@@ -1,0 +1,77 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+.neighborhood {
+  background-color: rgb(231, 231, 223);
+  height: 100%;
+}
+
+.ogden-picture {
+  margin-top: 20px;
+  display: block;
+}
+
+.street-link:hover {
+  color: black;
+	
+}
+
+.food-links:hover {
+	color: black;
+}
+
+.pick {
+	background-color: #DC143C;
+}
+
+nav {
+  border-bottom: 2px solid orange;
+}
+
+ol {
+  padding-left: 0;
+}
+
+.crumb {
+  margin-right: 2em;
+  display: inline;
+}
+
+a {
+  color: orange;
+}
+
+a:visited {
+  color: crimson;
+}
+
+input {
+  display: block;
+}
+
+img {
+  max-width: 300px;
+}
+
+.color-button {
+  height: 30px;
+  width: 150px;
+  background-color: yellow;
+}
+
+.place-button {
+  height: 30px;
+  width: 150px;
+  background-color: yellow;
+}
+
+.ritual-button {
+  height: 30px;
+  width: 150px;
+  background-color: yellow;
+}
